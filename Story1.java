@@ -1,0 +1,1 @@
+str(response.choices[-1].text)
